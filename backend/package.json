@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "GRAPHQL server",
+  "main": "index.js",
+  "author": "Taric Ov",
+  "license": "MIT"
+}
